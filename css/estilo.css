@@ -1,0 +1,12 @@
+body{
+    background-image: url(/image/Captura\ de\ tela\ 2024-08-05\ 231726.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 9%;
+}
+
+body .container {
+    background-color: #ffffffed;
+    width: 700px;
+
+}
